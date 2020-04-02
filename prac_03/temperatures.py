@@ -1,3 +1,8 @@
+"""
+Name: KyungYul Noh
+Link: https://github.com/kyungyul/Practical
+"""
+
 def main():
     num = False
     while not num:
