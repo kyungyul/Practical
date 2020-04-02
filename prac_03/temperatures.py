@@ -1,5 +1,5 @@
 """
-Name: KyungYul Noh
+Name: Kyung Yul Noh
 Link: https://github.com/kyungyul/Practical
 """
 
