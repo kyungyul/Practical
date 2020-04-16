@@ -1,5 +1,3 @@
-
-
 def main():
     """Display income report for incomes over a given number of months."""
     incomes = []
